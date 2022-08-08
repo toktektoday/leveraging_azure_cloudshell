@@ -1,5 +1,5 @@
 ![Illustration to use for new users](https://azurecomcdn.azureedge.net/cvt-779fa2985e70b1ef1c34d319b505f7b4417add09948df4c5b81db2a9bad966e5/images/page/services/devops/hero-images/index-hero.jpg)
-# **Remote Admin Access** with **Azure Cloud Shell**
+# Leveraging **Azure Cloud Shell** for **Remote Admin Access** 
 This project describes how to leverage **Azure Cloud Shell** for **Remote Admin Access**.
 Azure Cloud Shell is a browser-based and multi-platform command-line tool, that allows you to connect to Azure and manage your resources from virtually anywhere. Azure Cloud Shell is assigned per unique user account and automatically authenticated with each session for instant access to your resources through the Azure CLI or Azure PowerShell cmdlets. 
 
