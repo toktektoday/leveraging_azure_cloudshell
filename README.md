@@ -108,17 +108,16 @@ $vms | ForEach-Object -Parallel {
 </a>
 
 #References
-https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
-https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/?OCID=AIDcmm68ejnsa0_SEM_e92f803cf6e1114e615ce2d15d089e39:G:s&ef_id=e92f803cf6e1114e615ce2d15d089e39:G:s&msclkid=e92f803cf6e1114e615ce2d15d089e39#overview
-https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
-https://docs.microsoft.com/en-us/azure/virtual-machines/linux/run-command?WT.mc_id=itopstalk-blog-thmaure
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/run-command
-https://docs.microsoft.com/en-us/azure/virtual-machines/windows/run-command?WT.mc_id=itopstalk-blog-thmaure
-https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-run-scripts-in-your-azure-vm-by-using-run-command/ba-p/1362360
-https://docs.microsoft.com/en-us/powershell/module/az.compute/invoke-azvmruncommand?view=azps-8.2.0
-https://www.thomasmaurer.ch/2021/03/how-to-run-scripts-against-multiple-azure-vms-by-using-run-command/
-https://www.thomasmaurer.ch/2019/01/azure-cloud-shell/#:~:text=You%20can%20run%20the%20Enable-AzVMPSRemoting%20cmdlet%20to%20enable,and%20configure%20the%20remoting%20and%20NSGs%20in%20Azure.
-
+* https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
+* https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/?OCID=AIDcmm68ejnsa0_SEM_e92f803cf6e1114e615ce2d15d089e39:G:s&ef_id=e92f803cf6e1114e615ce2d15d089e39:G:s&msclkid=e92f803cf6e1114e615ce2d15d089e39#overview
+* https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
+* https://docs.microsoft.com/en-us/azure/virtual-machines/linux/run-command?WT.mc_id=itopstalk-blog-thmaure
+* https://docs.microsoft.com/en-us/azure/virtual-machines/windows/run-command
+* https://docs.microsoft.com/en-us/azure/virtual-machines/windows/run-command?WT.mc_id=itopstalk-blog-thmaure
+* https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-run-scripts-in-your-azure-vm-by-using-run-command/ba-p/1362360
+* https://docs.microsoft.com/en-us/powershell/module/az.compute/invoke-azvmruncommand?view=azps-8.2.0
+* https://www.thomasmaurer.ch/2021/03/how-to-run-scripts-against-multiple-azure-vms-by-using-run-command/
+* https://www.thomasmaurer.ch/2019/01/azure-cloud-shell/#:~:text=You%20can%20run%20the%20Enable-AzVMPSRemoting%20cmdlet%20to%20enable,and%20configure%20the%20remoting%20and%20NSGs%20in%20Azure.
 
 ### For opening a **remote session** on a single Linux machine (SSH)
 This procedure will open a remote session on a single Linux machine
