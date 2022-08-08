@@ -13,7 +13,6 @@ Cloud Shell is managed by Microsoft so it comes equipped with popular command-li
 ### For opening a **remote session** on a single Windows machine
 This procedure will open a remote session on a single Windows machine
 ```powershell
-# Provide administator details
 $vmName = "Your VM's Name"
  
 # Get the VM object
@@ -63,7 +62,6 @@ $vms | ForEach-Object -Parallel {
 ### For opening a **remote session** on a single Linux machine
 This procedure will open a remote session on a single Linux machine
 ```powershell
-# Provide administator details
 $vmName = "Your VM's Name"
  
 # Get the VM object
