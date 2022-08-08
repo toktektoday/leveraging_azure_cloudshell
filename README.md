@@ -32,8 +32,8 @@ iex pwd
 #After you are done
 Disable-AzVMPSRemoting -Name $vm.Name -ResourceGroupName $vm.ResourceGroupName
 ```
-<a href="https://shell.azure.com/powershell" target="_blank">
-  <img src="[https://aka.ms/deploytoazurebutton](https://dev.azure.com/toktektoday/a67192fa-d63d-4d01-bf70-8898d78b6d6c/_apis/git/repositories/e05f0b85-327a-4f2d-949e-3ae6e8b6b8d0/items?scopePath=/src/images/run_with_cloudshell.png&branchName=main&api-version=6.0 =180x)"/>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Ftikteklive%2Fdeploy_to_azure_button%2F_apis%2Fgit%2Frepositories%2Fdeploy_to_azure_button%2Fitems%3FscopePath%3D%2Fazuredeploy.json%26branchName%3Dmain%26api-version%3D6.0" target="_blank">
+  <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
 ### For executing **remote commands** on multiple Windows machines
