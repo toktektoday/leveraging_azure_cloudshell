@@ -32,7 +32,7 @@ iex pwd
 #After you are done
 Disable-AzVMPSRemoting -Name $vm.Name -ResourceGroupName $vm.ResourceGroupName
 ```
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Ftikteklive%2Fdeploy_to_azure_button%2F_apis%2Fgit%2Frepositories%2Fdeploy_to_azure_button%2Fitems%3FscopePath%3D%2Fazuredeploy.json%26branchName%3Dmain%26api-version%3D6.0" target="_blank">
+<a href="https://shell.azure.com/powershell" target="_blank">
   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
