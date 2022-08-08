@@ -32,7 +32,9 @@ iex pwd
 #After you are done
 Disable-AzVMPSRemoting -Name $vm.Name -ResourceGroupName $vm.ResourceGroupName
 ```
-[![Run with Cloudshell](https://dev.azure.com/toktektoday/a67192fa-d63d-4d01-bf70-8898d78b6d6c/_apis/git/repositories/e05f0b85-327a-4f2d-949e-3ae6e8b6b8d0/items?scopePath=/src/images/run_with_cloudshell.png&branchName=main&api-version=6.0 =180x)](https://shell.azure.com/powershell)
+<a href="https://shell.azure.com/powershell" target="_blank">
+  <img src="[https://aka.ms/deploytoazurebutton](https://dev.azure.com/toktektoday/a67192fa-d63d-4d01-bf70-8898d78b6d6c/_apis/git/repositories/e05f0b85-327a-4f2d-949e-3ae6e8b6b8d0/items?scopePath=/src/images/run_with_cloudshell.png&branchName=main&api-version=6.0 =180x)"/>
+</a>
 
 ### For executing **remote commands** on multiple Windows machines
 This procedure will execute remote commands on multiple Windows machines. The -ScriptBlock {} and the VM objects querying will vary according to your needs.
