@@ -107,7 +107,7 @@ $vms | ForEach-Object -Parallel {
   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
-#References
+# References
 * https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
 * https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/?OCID=AIDcmm68ejnsa0_SEM_e92f803cf6e1114e615ce2d15d089e39:G:s&ef_id=e92f803cf6e1114e615ce2d15d089e39:G:s&msclkid=e92f803cf6e1114e615ce2d15d089e39#overview
 * https://docs.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
